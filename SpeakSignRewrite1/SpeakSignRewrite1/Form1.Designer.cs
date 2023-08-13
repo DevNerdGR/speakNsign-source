@@ -35,6 +35,8 @@
             this.quit = new System.Windows.Forms.Button();
             this.pathConfig = new System.Windows.Forms.Button();
             this.info = new System.Windows.Forms.Button();
+            this.ipField = new System.Windows.Forms.TextBox();
+            this.label = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // contextMenuStrip1
@@ -67,9 +69,9 @@
             // quit
             // 
             this.quit.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.quit.Location = new System.Drawing.Point(12, 402);
+            this.quit.Location = new System.Drawing.Point(12, 386);
             this.quit.Name = "quit";
-            this.quit.Size = new System.Drawing.Size(186, 36);
+            this.quit.Size = new System.Drawing.Size(186, 52);
             this.quit.TabIndex = 3;
             this.quit.Text = "Quit";
             this.quit.UseVisualStyleBackColor = true;
@@ -78,7 +80,7 @@
             // pathConfig
             // 
             this.pathConfig.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.pathConfig.Location = new System.Drawing.Point(12, 302);
+            this.pathConfig.Location = new System.Drawing.Point(12, 270);
             this.pathConfig.Name = "pathConfig";
             this.pathConfig.Size = new System.Drawing.Size(186, 52);
             this.pathConfig.TabIndex = 5;
@@ -89,13 +91,32 @@
             // info
             // 
             this.info.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.info.Location = new System.Drawing.Point(12, 360);
+            this.info.Location = new System.Drawing.Point(12, 328);
             this.info.Name = "info";
-            this.info.Size = new System.Drawing.Size(186, 36);
+            this.info.Size = new System.Drawing.Size(186, 52);
             this.info.TabIndex = 6;
             this.info.Text = "Visit page...";
             this.info.UseVisualStyleBackColor = true;
             this.info.Click += new System.EventHandler(this.info_Click);
+            // 
+            // ipField
+            // 
+            this.ipField.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.ipField.Location = new System.Drawing.Point(12, 241);
+            this.ipField.Name = "ipField";
+            this.ipField.Size = new System.Drawing.Size(186, 23);
+            this.ipField.TabIndex = 7;
+            this.ipField.TextChanged += new System.EventHandler(this.ipField_TextChanged);
+            // 
+            // label
+            // 
+            this.label.AutoSize = true;
+            this.label.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
+            this.label.Location = new System.Drawing.Point(12, 223);
+            this.label.Name = "label";
+            this.label.Size = new System.Drawing.Size(106, 15);
+            this.label.TabIndex = 8;
+            this.label.Text = "Target IP Address:";
             // 
             // SpeakSign
             // 
@@ -104,6 +125,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label);
+            this.Controls.Add(this.ipField);
             this.Controls.Add(this.info);
             this.Controls.Add(this.pathConfig);
             this.Controls.Add(this.quit);
@@ -116,6 +139,7 @@
             this.Name = "SpeakSign";
             this.Text = "SpeakSign";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -127,6 +151,8 @@
         private System.Windows.Forms.Button pathConfig;
         private System.Windows.Forms.Button info;
         public System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.TextBox ipField;
+        private System.Windows.Forms.Label label;
     }
 }
 

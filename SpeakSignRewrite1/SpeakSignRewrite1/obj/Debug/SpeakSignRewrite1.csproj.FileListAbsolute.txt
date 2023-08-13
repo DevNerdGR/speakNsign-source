@@ -9,3 +9,14 @@ C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\
 C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.exe
 C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.pdb
 C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.SpeakSign.resources
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.Text.Json.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.Memory.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.ValueTuple.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.Buffers.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.exe.config
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.csproj.CopyComplete
