@@ -1,0 +1,11 @@
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\SpeakSignRewrite1.exe.config
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\SpeakSignRewrite1.exe
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\bin\Debug\SpeakSignRewrite1.pdb
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.csproj.AssemblyReference.cache
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.Properties.Resources.resources
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.csproj.GenerateResource.cache
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.csproj.CoreCompileInputs.cache
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.exe
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.pdb
+C:\Users\GR\Desktop\School\DV2134\SpeakSignRewrite1\SpeakSignRewrite1\obj\Debug\SpeakSignRewrite1.SpeakSign.resources
