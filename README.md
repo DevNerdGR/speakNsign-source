@@ -5,4 +5,4 @@ Note: to use the application, please go to https://github.com/DevNerdGR/DV-2134-
 
 
 
-Rewrite out, currently in v1.0 Stable Demo
+Rewrite out, currently in v2.0 Rewrite Stable Demo
